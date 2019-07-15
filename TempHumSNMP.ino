@@ -1,8 +1,5 @@
 /************************************************************
- *Property-off: www.microcontroller-project.com             *
- *Written by  : USman Ali Butt                              *
- *Date        :4-May-2017                                   *
- *                                                          *
+ * Monitor temperature and humidity over SNMP               *                                                        *
  * *********************************************************/
 #include <Streaming.h>         // Include the Streaming library
 #include <Ethernet.h>          // Include the Ethernet library
