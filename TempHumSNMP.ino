@@ -1,6 +1,6 @@
 /************************************************************
  * Monitor temperature and humidity over SNMP               *
- * Arduino Uno, EthernetShield en Grooveshield              *
+ * Arduino Uno, EthernetShield and Grooveshield             *
  * *********************************************************/
 #include <Streaming.h>         // Include the Streaming library
 #include <Ethernet.h>          // Include the Ethernet library
