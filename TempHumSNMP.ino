@@ -24,7 +24,7 @@ static byte ip[] = { 192, 168, 178, 6 };                      //IP Address for A
 
 const int kPinTemp = A0;                                     //Lm35 Analog Channel Input
 int temp=0;                                                 //Centigrade Temperature variable
-int hum=0;                                                 //Farenheight Temperatur variable
+int hum=0;                                                 //Humidity % variable
 
 // RFC1213-MIB OIDs
 // .iso (.1)
